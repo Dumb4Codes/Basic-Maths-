@@ -10,7 +10,6 @@ This repository contains resources and examples to help you understand and apply
 - Getting Started
 - Examples
 - Contributing
-- License
 
 ## Introduction
 
